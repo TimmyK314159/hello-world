@@ -12,8 +12,8 @@ This is my re-introduction to the coding world!
 - This list could have any amount of items!
 - Behold, the list!
 
-### I think i'll toss my linkedin url here!
+### **I think i'll toss my linkedin url here!**
 [LinkedIn](www.linkedin.com/in/tim-muller314159)
 
-Now let's take a look at this classy coder!*
+*Now let's take a look at this classy coder!*
 (![signal-2023-10-29-190308_002](https://github.com/TimmyK314159/hello-world/assets/150512095/73a1a25a-4c01-4569-9c31-caffa95ea778)

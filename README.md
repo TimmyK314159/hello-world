@@ -1,8 +1,8 @@
 # hello-world
 This is my re-introduction to the coding world!
-# H1 TIMOTHY K 314159
+#  **TIMOTHY K 314159**
 ** I WILL MAKE A BOLD ENTRANCE**
-* I will then appear classy! *
+*I will then appear classy!*
 > this is a blockquote?
 1. I will have several items.
 2. There will be more than two items.
